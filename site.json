@@ -1,0 +1,30 @@
+{
+  "repo": "kog-young-adults-studies",
+  "prefix": "ya",
+  "base_font": "18px",
+  "url": "https://w69gjcn72j-dotcom.github.io/kog-young-adults-studies/",
+  "en": {
+    "title": "KOG Young Adults",
+    "short": "Young Adults",
+    "appname": "Young Adults",
+    "unit": "study",
+    "units": "studies",
+    "grouplabel": "Series",
+    "tagline": "Bible studies for our young adults — working through books of the Bible together, with room to think hard and pray honestly.",
+    "description": "KOG Young Adults Bible studies at St Paul's Anglican Church Kogarah.",
+    "manifest": "kog-young-adults.webmanifest",
+    "index": "index.html"
+  },
+  "cn": {
+    "title": "青年成人查经",
+    "short": "青年查经",
+    "appname": "青年查经",
+    "unit": "查经",
+    "units": "查经",
+    "grouplabel": "系列",
+    "tagline": "为青年成人预备的查经——一起逐卷研读圣经，认真思考，坦诚祷告。",
+    "description": "高嘉华圣保罗圣公会青年成人查经材料。",
+    "manifest": "kog-young-adults-cn.webmanifest",
+    "index": "index-cn.html"
+  }
+}
