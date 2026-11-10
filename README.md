@@ -1,3 +1,5 @@
+> **Moved.** These studies now live on Word & Prayer, at https://word.kogarah.church/studies/young-adults/ (中文: https://word.kogarah.church/bible-studies-cn.html?c=ya). Every page here only forwards to its new address. New studies are published from the `sermon-library` repository (`add-study.py --rebuild`), not from this one.
+
 # KOG Young Adults · 青年成人查经
 
 Bible studies for our young adults — working through books of the Bible together, with room to think hard and pray honestly.
